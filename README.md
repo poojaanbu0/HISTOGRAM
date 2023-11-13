@@ -81,25 +81,31 @@ cv2.destroyAllWindows()
 ```python
 equ_img = cv2.equalizeHist(gray_image)
 ```
+
 # Output:
 ## Input Grayscale Image and Color Image
+![WhatsApp Image 2023-11-14 at 03 01 55_e926f00e](https://github.com/poojaanbu0/HISTOGRAM/assets/119390329/37ff539e-55ec-42e5-a815-536c3440a966)
 
-![](M640.png)<br>
-![](red_car.png)<br>
-
+![WhatsApp Image 2023-11-14 at 03 02 15_3dae67b1](https://github.com/poojaanbu0/HISTOGRAM/assets/119390329/5b93fd18-f348-4e59-9f77-e95b5fc309b9)
 
 ## Histogram of Grayscale Image and any channel of Color Image
 #### Grey Image
-![](Grey_Hgraph.png) <br>
+![WhatsApp Image 2023-11-14 at 03 02 34_8ddfbde2](https://github.com/poojaanbu0/HISTOGRAM/assets/119390329/94ff29c3-59fb-42b6-bb66-39c6b21c15c3)
+
 #### Blue Channel
-![](HBgraph.png) <br>
+![WhatsApp Image 2023-11-14 at 03 02 54_73c2ceb1](https://github.com/poojaanbu0/HISTOGRAM/assets/119390329/0f9e3278-0f36-4a81-a7b6-b9b5de383c5d)
+
+
 #### Green Channel
-![](HGgraph.png) <br>
+![WhatsApp Image 2023-11-14 at 03 03 26_f7b907c7](https://github.com/poojaanbu0/HISTOGRAM/assets/119390329/cf4b4549-0aa2-4342-b639-ea5df2595332)
+
+
 #### Red Channel
-![](HRgraph.png) <br>
+![WhatsApp Image 2023-11-14 at 03 03 51_6a83695b](https://github.com/poojaanbu0/HISTOGRAM/assets/119390329/b37a9521-7585-45cc-8fa5-ae5631cea11d)
+
 
 ## Histogram Equalization of Grayscale Image
-![](Eq_Gi.png) <br>
+![WhatsApp Image 2023-11-14 at 03 04 37_443916fa](https://github.com/poojaanbu0/HISTOGRAM/assets/119390329/3587914b-ff3c-4e9c-b628-3c3a7adba5a2)
 
 
 # Result: 
